@@ -1,8 +1,6 @@
-# MRIPAT Web App
+# MRIPAT Web
 
-![MRIPAT Web App](screenshot.png)
-
-Welcome to the MRIPAT Web App repository! This web application is a personal project developed using the React framework along with HTML, CSS, and JavaScript. MRIPAT stands for "Mr Idub IPA Papat," which is a class name or identifier.
+Welcome to the MRIPAT Web repository! This web application is a personal project developed using the React framework along with HTML, CSS, and JavaScript. MRIPAT stands for "Mr Idub IPA Papat," which is a class name or identifier.
 
 The MRIPAT Web App serves as a platform to showcase and organize information related to the MRIPAT class. Whether you're a student, teacher, or anyone interested, this app provides a user-friendly interface to access relevant class materials, announcements, and more.
 
@@ -26,8 +24,7 @@ The MRIPAT Web App serves as a platform to showcase and organize information rel
 ### Prerequisites
 
 - Node.js (version 16.14.0)
-- npm (version 8.3.1)
-- Angular CLI (version 15.1.6)
+- npm (version 9.8.0)
 
 ### Installation
 
@@ -45,4 +42,4 @@ Please review the [Contribution Guidelines](CONTRIBUTING.md) before submitting y
 
 ---
 
-Thank you for your interest in the MRIPAT Web App! If you have any questions or need assistance, feel free to contact [Your Name] at [your@email.com]. Enjoy exploring the world of MRIPAT through this web application.
+Thank you for your interest in the MRIPAT Web App! If you have any questions or need assistance, feel free to contact me at farrel.ahmad.zaidan@gmail.com. Enjoy exploring the world of MRIPAT through this web application.
