@@ -21,30 +21,20 @@ The MRIPAT Web App serves as a platform to showcase and organize information rel
 - **CSS (Tailwind CSS):** Used for styling the user interface. Tailwind CSS is a utility-first CSS framework that makes styling efficient and flexible.
 - **JavaScript:** Used to add interactivity and functionality to the app.
 
-## Installation
+## Getting Started
 
-To run the MRIPAT Web App locally on your machine, follow these steps:
+### Prerequisites
 
-1. Clone this repository to your local machine using:
-git clone https://github.com/uglysquid27/mripat.git
-2. Navigate to the project directory:
-cd mripat-web-app
+- Node.js (version 16.14.0)
+- npm (version 8.3.1)
+- Angular CLI (version 15.1.6)
 
-mathematica
-Copy code
+### Installation
 
-3. Install the dependencies using your preferred package manager. If you're using npm:
-npm install
-
-markdown
-Copy code
-
-4. Start the development server:
-npm start
-
-yaml
-Copy code
-
+1. Clone the repository: `git clone https://github.com/uglysquid27/mripat.git`
+2. Navigate to the project directory: `cd mripat`
+5. Install dependencies: `npm install`
+4. Run the project: `npm run dev`
 5. Open your web browser and visit `http://localhost:5173` to see the app in action.
 
 ## Contributions
